@@ -20,7 +20,7 @@ Installation
 3. Update the submodules:
 
        cd ~/Library/Application\ Support/Coda/Modes
-       git submode update --init
+       git submodule update --init
 
 4. If you have additional syntax modes in your old `Modes` folder, copy them
    into this folder.
