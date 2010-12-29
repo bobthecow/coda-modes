@@ -15,17 +15,12 @@ Installation
 2. Check out this repository:
 
        cd ~/Library/Application\ Support/Coda
-       git clone git://github.com/bobthecow/coda-modes.git Modes
+       git clone --recursive git://github.com/bobthecow/coda-modes.git Modes
 
-3. Update the submodules:
-
-       cd ~/Library/Application\ Support/Coda/Modes
-       git submodule update --init
-
-4. If you have additional syntax modes in your old `Modes` folder, copy them
+3. If you have additional syntax modes in your old `Modes` folder, copy them
    into this folder.
 
-5. Restart Coda.
+4. Restart Coda.
 
 
 SubEthaEdit Users
