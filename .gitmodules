@@ -1,6 +1,3 @@
-[submodule "Twig.mode"]
-	path = Twig.mode
-	url = git://github.com/bobthecow/Twig.mode.git
 [submodule "PHP-HTML.mode"]
 	path = PHP-HTML.mode
 	url = git://github.com/bobthecow/PHP-HTML.mode.git
