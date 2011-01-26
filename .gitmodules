@@ -10,3 +10,12 @@
 [submodule "YAML.mode"]
 	path = YAML.mode
 	url = git://github.com/bobthecow/YAML.mode.git
+[submodule "Twig-HTML.mode"]
+	path = Twig-HTML.mode
+	url = git://github.com/bobthecow/Twig-HTML.mode.git
+[submodule "Twig-JavaScript.mode"]
+	path = Twig-JavaScript.mode
+	url = git://github.com/bobthecow/Twig-JavaScript.mode.git
+[submodule "Twig-XML.mode"]
+	path = Twig-XML.mode
+	url = git://github.com/bobthecow/Twig-XML.mode.git
