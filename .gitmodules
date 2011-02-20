@@ -19,3 +19,6 @@
 [submodule "Twig-XML.mode"]
 	path = Twig-XML.mode
 	url = git://github.com/bobthecow/Twig-XML.mode.git
+[submodule "LESS.mode"]
+	path = LESS.mode
+	url = https://github.com/monoceroi/LESS.mode.git
